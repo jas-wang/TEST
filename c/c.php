@@ -5,5 +5,8 @@ function d(){
 
   $f = $g;
 }
-  
+  function adasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdads(){
+
+    
+  }
 }
