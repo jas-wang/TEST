@@ -9,4 +9,7 @@ public function d($a){
 
     $test = $bsd;
   }
+  function a(){
+    
+  }
 }
